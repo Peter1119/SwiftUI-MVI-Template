@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kind</key>
+	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
+	<key>Summary</key>
+	<string>SwiftUI+MVI 아키텍처를 이용하기 위한 생성입니다. 코드를 배치해보세요.</string>
+	<key>Description</key>
+	<string>SwiftUI+MVI 아키텍처를 이용하기 위한 생성입니다.</string>
+	<key>SortOrder</key>
+	<string>2</string>
+	<key>AllowedTypes</key>
+	<dict>
+		<key>Item 0</key>
+		<string>public.swift-source</string>
+	</dict>
+	<key>DefaultCompletionName</key>
+	<string>MyScene</string>
+	<key>MainTemplateFiles</key>
+	<string>___FILEBASENAME___.swift</string>
+	<key>Platforms</key>
+	<array>
+		<string>com.apple.platform.iphoneos</string>
+	</array>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>Identifier</key>
+			<string>productName</string>
+			<key>Required</key>
+			<string>true</string>
+			<key>Name</key>
+			<string>MVI name:</string>
+			<key>Description</key>
+			<string>The name of the MVI to create</string>
+			<key>Type</key>
+			<string>text</string>
+			<key>NotPersisted</key>
+			<string>true</string>
+		</dict>
+	</array>
+</dict>
+</plist>
