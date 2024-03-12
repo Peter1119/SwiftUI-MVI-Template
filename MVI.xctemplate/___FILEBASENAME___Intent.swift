@@ -24,6 +24,6 @@ class ___VARIABLE_productName___Intent {
     }
 }
 
-extension ___VARIABLE_productName___Intent: ___VARIABLE_productName___Protocol {
+extension ___VARIABLE_productName___Intent: ___VARIABLE_productName___IntentProtocol {
     
 }

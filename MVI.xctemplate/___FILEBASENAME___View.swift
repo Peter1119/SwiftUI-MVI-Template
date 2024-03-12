@@ -25,7 +25,7 @@ struct ___VARIABLE_productName___View: View {
 
 // MARK: - Views
 
-private extension ItemView {
+private extension ___VARIABLE_productName___View {
 
     func bodyView() -> some View {
         Text("Hello World")
