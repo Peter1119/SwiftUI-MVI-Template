@@ -28,6 +28,7 @@ public final class MVIContainer<Intent, Model>: ObservableObject {
 }
 ```
 
+### 설치 방법
 SwiftUI+MVI 템플릿입니다. 
 
 1. 해당 repository 설치
